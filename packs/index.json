@@ -2,7 +2,9 @@
   "packs": [
     "capoo_stickers.json",
     "Vlad_Len.json",
-    "CapooEmojiVideo2.json"
+    "CapooEmojiVideo2.json",
+    "CapooEmojiVideo3.json",
+    "CapooEmojiVideo1.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
