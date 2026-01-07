@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "capoo_stickers.json",
+    "Vlad_Len.json",
+    "CapooEmojiVideo2.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
